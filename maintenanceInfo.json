@@ -1,0 +1,24 @@
+[
+  {
+    "productID": "psoneup",
+    "platform": "ios",
+    "enableMaintenance": true,
+    "maintenanceDeadline": 1568799309,
+    "title": "Sorry",
+    "description": [
+      "Sorry, the server is currently malfunctioning, causing you to be unable to connect. We are working hard to fix it. your data will not be affected. Please come back later ：）",
+      "很抱歉，目前我们的服务器出现了故障，我们正在尝试购买新鲜土豆解决供电问题，导致您无法连接，我们正在全力修复，请放心，您的数据不会受到影响，请稍后再来 ：）",
+      "很抱歉，目前伺服器出現故障，導致您無法連接，我們正在全力修復，請放心，您的數據不會受到影響，請稍後再來 ：）",
+      "申し訳ありませんが、サーバーが現在誤動作しているため、接続できません。修正に努めております。データには影響しませんのでご安心ください。後で戻ってください ：）"],
+    "update": 1568799309
+  },
+  {
+    "productID": "psoneup",
+    "platform": "android",
+    "enableMaintenance": false,
+    "maintenanceDeadline": 1568799309,
+    "title": "Sorry",
+    "description": [],
+    "update": 1568799309
+  }
+]
