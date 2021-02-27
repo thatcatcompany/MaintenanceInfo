@@ -4,6 +4,8 @@
     "platform": "ios",
     "enableMaintenance": true,
     "maintenanceDeadline": 1568799309,
+    "host":"api.thatcatcompany.tech",
+    "enableHost":false,
     "title": "Sorry",
     "description": [
       "Sorry, the server is currently malfunctioning, causing you to be unable to connect. We are working hard to fix it. your data will not be affected. Please come back later ：）",
@@ -17,6 +19,8 @@
     "platform": "android",
     "enableMaintenance": false,
     "maintenanceDeadline": 1568799309,
+    "host":"api.thatcatcompany.tech",
+    "enableHost":false,
     "title": "Sorry",
     "description": [],
     "update": 1568799309
