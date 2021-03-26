@@ -2,27 +2,16 @@
   {
     "productID": "psoneup",
     "platform": "ios",
-    "enableMaintenance": true,
-    "maintenanceDeadline": 1568799309,
+    "enableMaintenance": false,
+    "maintenanceDeadline": "2022-01-01T00:00:00Z",
     "host":"api.thatcatcompany.tech",
     "enableHost":false,
     "title": "Sorry",
     "description": [
-      "Sorry, the server is currently malfunctioning, causing you to be unable to connect. We are working hard to fix it. your data will not be affected. Please come back later ：）",
-      "很抱歉，目前我们的服务器出现了故障，我们正在尝试购买新鲜土豆解决供电问题，导致您无法连接，我们正在全力修复，请放心，您的数据不会受到影响，请稍后再来 ：）",
-      "很抱歉，目前伺服器出現故障，導致您無法連接，我們正在全力修復，請放心，您的數據不會受到影響，請稍後再來 ：）",
-      "申し訳ありませんが、サーバーが現在誤動作しているため、接続できません。修正に努めております。データには影響しませんのでご安心ください。後で戻ってください ：）"],
-    "update": 1568799309
-  },
-  {
-    "productID": "psoneup",
-    "platform": "android",
-    "enableMaintenance": false,
-    "maintenanceDeadline": 1568799309,
-    "host":"api.thatcatcompany.tech",
-    "enableHost":false,
-    "title": "Sorry",
-    "description": [],
-    "update": 1568799309
+      "At present, our potatoes hoarding amount is adequate, enough to support servers running ：）",
+      "目前我们的土豆囤积量非常充足，足够支持服务器的正常运行 ：）",
+      "目前我們的土豆囤積量非常充足，足夠支持伺服器的正常運行 ：）",
+      "現在、私たちのジャガイモの在庫は非常に十分であり、サーバーの操作をサポートするのに十分です ：）"],
+    "update": "2022-01-01T00:00:00Z"
   }
 ]
