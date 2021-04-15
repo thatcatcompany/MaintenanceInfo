@@ -1,17 +1,18 @@
 [
   {
-    "productID": "psoneup",
+    "productId": "psoneup",
     "platform": "ios",
     "enableMaintenance": false,
     "maintenanceDeadline": "2022-01-01T00:00:00Z",
-    "host":"api.thatcatcompany.tech",
-    "enableHost":false,
+    "host": "api.thatcatcompany.tech",
+    "enableHost": false,
     "title": "Sorry",
     "description": [
       "At present, our potatoes hoarding amount is adequate, enough to support servers running ：）",
       "目前我们的土豆囤积量非常充足，足够支持服务器的正常运行 ：）",
       "目前我們的土豆囤積量非常充足，足夠支持伺服器的正常運行 ：）",
-      "現在、私たちのジャガイモの在庫は非常に十分であり、サーバーの操作をサポートするのに十分です ：）"],
+      "現在、私たちのジャガイモの在庫は非常に十分であり、サーバーの操作をサポートするのに十分です ：）"
+    ],
     "update": "2022-01-01T00:00:00Z"
   }
 ]
